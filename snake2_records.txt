@@ -1,0 +1,50 @@
+﻿
+* WAR *
+(speed: 0.05
+speed-up: 0.01
+field_size: 20
+max_points_together: 1)
+SNAKE SIZE: 47
+
+* IST *
+(speed: 0.05
+speed-up: 0.01
+field_size: 20
+max_points_together: 1)
+SNAKE SIZE: 49
+
+* HAHAH *
+(speed: 0.075
+speed-up: 0.1
+field_size: 30
+max_points_together: 450)
+SNAKE SIZE: 165
+
+* PISKA\ *
+(speed: 0.05
+speed-up: 0.01
+field_size: 20
+max_points_together: 1)
+snake SIZE: 28
+
+
+* IYA *
+(speed: 0.05
+speed-up: 0.05
+field_size: 15
+max_points_together: 1)
+snake SIZE: 16
+
+* ZHENYYYA-BOY *
+(speed: 0.05
+speed-up: 0.05
+field_size: 15
+max_points_together: 1)
+snake SIZE: 15
+
+* 3 *
+(speed: 0.05
+speed-up: 0.05
+field_size: 20
+max_points_together: 200)
+snake SIZE: 77

@@ -1,0 +1,21 @@
+﻿# ACHTUNG! do not change variables' names!
+
+* GRAPHICS *
+space_between_cols: 1
+space_between_rows: 0
+true_object (sneak|points): ' '
+false_object: 'x'
+
+* GAMEPLAY *
+speed: 0.075
+speed-up (<1 is required): 0.05
+field_size: 30
+max_points_together: 1
+
+* CONTROLS *
+# this program uses special keys,
+# use 'test-keyboard.py' to get button's key
+key_up: 72
+key_left: 75
+key_down: 80
+key_right: 77
